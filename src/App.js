@@ -54,14 +54,14 @@ function App() {
                 </p>
                 <img
                   className="vector"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Vector (5).png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/vector-4.svg"
                   alt="Vector"
                 />
               </div>
               <img
                 className="line-27"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 217.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-27.svg"
                 alt="Line 27"
               />
@@ -101,7 +101,7 @@ function App() {
                   <div className="view-case-study">View Case Study</div>
                   <img
                     className="subtract-1"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                    src="footer/Subtract (2).png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-16.svg"
                     alt="Subtract"
                   />
@@ -175,7 +175,7 @@ function App() {
               <div className="group-189">
                 <img
                   className="line-22"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 22.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-22.svg"
                   alt="Line 22"
                 />
@@ -190,7 +190,7 @@ function App() {
                     <div className="view-all-our-services">View All Our Services</div>
                     <img
                       className="subtract-2"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                      src="footer/Subtract (2).png"
                       anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-15.svg"
                       alt="Subtract"
                     />
@@ -202,7 +202,7 @@ function App() {
                   <div className="branding-2">Branding</div>
                   <img
                     className="frame-79"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                    src="footer/Vector (8).png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/frame-79-2.svg"
                     alt="Frame 79"
                   />
@@ -212,7 +212,7 @@ function App() {
                     <div className="development">Development</div>
                     <img
                       className="vector-1"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                      src="footer/Vector (9).png"
                       anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/vector-5.svg"
                       alt="Vector"
                     />
@@ -234,14 +234,14 @@ function App() {
               </div>
               <img
                 className="group-230"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Group 230.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-230@2x.png"
                 alt="Group 230"
               />
               <div className="group-303">
                 <img
                   className="group-216"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Group 216.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-216@2x.png"
                   alt="Group 216"
                 />
@@ -252,7 +252,7 @@ function App() {
                 </p>
                 <img
                   className="line-24"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 24.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-24.svg"
                   alt="Line 24"
                 />
@@ -264,7 +264,7 @@ function App() {
               <div className="group-304">
                 <img
                   className="group-216"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Group 216.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-216-1@2x.png"
                   alt="Group 216"
                 />
@@ -275,7 +275,7 @@ function App() {
                 </p>
                 <img
                   className="line-24"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 24.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-24-1.svg"
                   alt="Line 24"
                 />
@@ -287,7 +287,7 @@ function App() {
               <div className="group-305">
                 <img
                   className="group-216"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Group 216.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-216-2@2x.png"
                   alt="Group 216"
                 />
@@ -298,7 +298,7 @@ function App() {
                 </p>
                 <img
                   className="line-24"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 24.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-24-2.svg"
                   alt="Line 24"
                 />
@@ -310,7 +310,7 @@ function App() {
               <div className="group-306">
                 <img
                   className="group-216"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Group 216.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-216-3@2x.png"
                   alt="Group 216"
                 />
@@ -321,7 +321,7 @@ function App() {
                 </p>
                 <img
                   className="line-24"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 24.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-24-3.svg"
                   alt="Line 24"
                 />
@@ -353,14 +353,14 @@ function App() {
                 </p>
                 <img
                   className="vector"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Vector (5).png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/vector-6.svg"
                   alt="Vector"
                 />
               </div>
               <img
                 className="line-27-1"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Line 27.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-27-1.svg"
                 alt="Line 27"
               />
@@ -387,7 +387,7 @@ function App() {
                       </p>
                       <img
                         className="subtract"
-                        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                        src="footer/Subtract (1).png"
                         anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-17.svg"
                         alt="Subtract"
                       />
@@ -402,7 +402,7 @@ function App() {
               </div>
               <img
                 className="line-28"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Line 28.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-28-1.svg"
                 alt="Line 28"
               />
@@ -427,7 +427,7 @@ function App() {
                       </p>
                       <img
                         className="subtract"
-                        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                        src="footer/Subtract (1).png"
                         anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-18.svg"
                         alt="Subtract"
                       />
@@ -442,7 +442,7 @@ function App() {
               </div>
               <img
                 className="line-29"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Line 28.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-29-1.svg"
                 alt="Line 29"
               />
@@ -467,7 +467,7 @@ function App() {
                       </p>
                       <img
                         className="subtract"
-                        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                        src="footer/Subtract (1).png"
                         anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-19.svg"
                         alt="Subtract"
                       />
@@ -482,7 +482,7 @@ function App() {
               </div>
               <img
                 className="line-30"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="footer/Line 28.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-30-1.svg"
                 alt="Line 30"
               />
@@ -507,7 +507,7 @@ function App() {
                       </p>
                       <img
                         className="subtract"
-                        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                        src="footer/Subtract (1).png"
                         anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-20.svg"
                         alt="Subtract"
                       />
@@ -535,12 +535,12 @@ function App() {
                     <div className="flex-row-9">
                       <img
                         className="frame-313"
-                        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                        src="footer/Frame 313.png"
                         anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/frame-313-2.svg"
                         alt="Frame 313"
                       />
                       <div className="facebook-instagram-y inter-medium-gray-10-5px">
-                        Facebook<br />Instagram<br />Youtube<br />LinkedIn<br />Twitter
+                      Facebook<br />Instagram<br />Youtube<br />LinkedIn<br />Twitter
                       </div>
                     </div>
                   </div>
@@ -554,7 +554,7 @@ function App() {
                     <div className="enter-email-address-here inter-medium-gray-15-8px">Enter Email Address Here</div>
                     <img
                       className="vector-2"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                      src="footer/Vector (4).png"
                       anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/vector-7.svg"
                       alt="Vector"
                     />
@@ -571,7 +571,7 @@ function App() {
                     <div className="technologies-we-use inter-medium-gray-15-8px">Technologies We Use</div>
                     <img
                       className="group-313"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                      src="/footer/Group 313.png"
                       anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-313-2.png"
                       alt="Group 313"
                     />
@@ -582,7 +582,7 @@ function App() {
                     </p>
                     <img
                       className="subtract-4"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                      src="footer/Subtract (1).png"
                       anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/subtract-21.svg"
                       alt="Subtract"
                     />
@@ -590,10 +590,10 @@ function App() {
                 </div>
                 <img
                   className="line-31"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="footer/Line 31.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/line-31-2.svg"
                   alt="Line 31"
-                />
+                /> 
                 <div className="flex-row-10">
                   <div className="group-234">
                     <div className="level8-digital">Level8Digital</div>
