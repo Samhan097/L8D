@@ -39,7 +39,7 @@
   
   .index .overlap-group-1 {
     align-items: flex-start;
-    background-image: url(https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-128.png);
+    /* background-image: url(https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/group-128.png); */
     background-size: 100% 100%;
     display: flex;
     height: 907px;

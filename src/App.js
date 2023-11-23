@@ -12,7 +12,7 @@ function App() {
               <div className="overlap-group-1">
                 <img
                   className="mask-group"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="/home/img-1.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/mask-group.png"
                   alt="Mask group"
                 />
@@ -109,7 +109,7 @@ function App() {
               </div>
               <img
                 className="rectangle-178"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="/home/img-2.png"
                 anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-178.svg"
                 alt="Rectangle 178"
               />
@@ -120,7 +120,7 @@ function App() {
                 <div className="flex-col-2 flex-col-10">
                   <img
                     className="rectangle-17"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                src="/home/img-3.png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-174.svg"
                     alt="Rectangle 174"
                   />
@@ -132,7 +132,7 @@ function App() {
                 <div className="flex-col-3 flex-col-10">
                   <img
                     className="rectangle-175"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                    src="/home/img-4.png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-175.svg"
                     alt="Rectangle 175"
                   />
@@ -146,7 +146,7 @@ function App() {
                 <div className="flex-col flex">
                   <img
                     className="rectangle-17"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                    src="/home/img-5.png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-176.svg"
                     alt="Rectangle 176"
                   />
@@ -160,7 +160,7 @@ function App() {
                 <div className="flex-col flex">
                   <img
                     className="rectangle-198"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                    src="/home/img-6.png"
                     anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-198@2x.png"
                     alt="Rectangle 198"
                   />
@@ -369,7 +369,7 @@ function App() {
               <div className="flex-col-4 flex-col-10">
                 <img
                   className="rectangle"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="/home/img-7.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-199-1.svg"
                   alt="Rectangle 199"
                 />
@@ -409,7 +409,7 @@ function App() {
               <div className="flex-col-5 flex-col-10">
                 <img
                   className="rectangle"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="/home/img-8.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-212-1.svg"
                   alt="Rectangle 212"
                 />
@@ -449,7 +449,7 @@ function App() {
               <div className="flex-col-1 flex-col-10">
                 <img
                   className="rectangle"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="/home/img-9.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-213-1.svg"
                   alt="Rectangle 213"
                 />
@@ -489,7 +489,7 @@ function App() {
               <div className="flex-col-1 flex-col-10">
                 <img
                   className="rectangle"
-                  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                  src="/home/img-10.png"
                   anima-src="https://cdn.animaapp.com/projects/655b5c17f4acb9cb5701b449/releases/655c39a6ae9ea9179a5e5b85/img/rectangle-214-1.svg"
                   alt="Rectangle 214"
                 />
